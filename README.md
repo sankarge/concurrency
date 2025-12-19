@@ -1,2 +1,2 @@
 # concurrency
-OpenJDK20 Virtual Threads
+Java 21 LTS Virtual Threads
